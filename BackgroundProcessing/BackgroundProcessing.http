@@ -1,0 +1,6 @@
+@BackgroundProcessing_HostAddress = http://localhost:5112
+
+GET {{BackgroundProcessing_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
